@@ -1,6 +1,6 @@
 # Skip and Take in Linq of .NET
 
-
+[Post](https://medium.com/@NelsonBN/skip-and-take-in-linq-of-net-3622bddff0ca)
 
 ## What is it?
 
